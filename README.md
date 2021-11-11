@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding, gaming, and coding in gaming.
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... anything that will help me learn C++
-- 📫 How to reach me ... www.linkedin.com/in/david-morris-35180998
+- 📫 How to reach me ... chakuron@gmail.com
 
 <!---
 Chakuron/Chakuron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
