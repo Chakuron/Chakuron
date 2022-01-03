@@ -23,3 +23,4 @@ int main() {
     cout << "Average is " << (sum) / count << endl;
 return 0;
 }
+//This program will return the min, the max, and the average, of any string of numbers. Please feel free to test, break, and let me know.
