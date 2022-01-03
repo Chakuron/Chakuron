@@ -9,7 +9,7 @@ int main() {
     int min = RAND_MAX;
 
     cout << "Enter positive numbers. -1 to quit:\n ";
-    for (int input; (cin >> input) && (input >= 0); ++count) {
+    for (int input; (cin >> input) && (input != -1); ++count) {
         if (input > max)
             max = input;
         if (input < min)
